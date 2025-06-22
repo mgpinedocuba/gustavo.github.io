@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UNMSM magnetron sputtering</title>
+    <link rel="stylesheet" href="../style.css">
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async
+      src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+    </script>
+  </head>
+
+  <body>
+
+    <header>
+      <h1>UNMSM magnetron sputtering</h1>
+      <p>  </p>
+      <p>  </p>
+      <nav>
+        <a href="../index.html">Home</a>
+        <a href="#">About me</a>
+        <a href="#">Research</a>
+        <a href="../notes.html">Notes</a>
+      </nav>
+    </header>
+
+    <main>
+
+      <p>⚠️ Updated 21/06/2025</p>
+      
+      <h2>Disclaimer</h2>
+
+      <p class="textformat">
+        This manual is a basic guide for operating the magnetron sputtering 
+        system in the laboratory of the Universidad Nacional Mayor de San 
+        Marcos (UNMSM). It provides a step-by-step explanation of the process 
+        for preparing thin films, along with descriptions of the system's 
+        components and procedures. This manual is still under development, 
+        so I would greatly appreciate any additional information or feedback 
+        you may have, especially regarding errors or missing details.
+      </p>
+      <p>
+        E-mail: 
+        <a href="mailto:mgpinedocuba@outlook.com">
+          mgpinedocuba@outlook.com
+        </a>
+      </p>
+
+      <h2>General description of the equipment</h2>
+
+      <p class="textformat">
+        The equipment used is a magnetron sputtering system, model ATC Polaris 
+        from AJA International, located in the Faculty of Physical Sciences at 
+        the Centre for Technological, Biomedical, and Environmental Research 
+        (CITBM). This system supports the integration of various accessories 
+        and modules. However, the components described below are those that 
+        were present in the system at the time these notes were written. These 
+        components include:
+      </p>
+      <ul>
+        <li>
+          Vacuum control
+          <ul>
+            <li>High-vacuum chamber.</li>
+            <li>Mechanical and Turbo pumps.</li>
+            <li>Vacuum detectors.</li>
+            <li>Break-vacuum system.</li>
+          </ul>
+        </li>
+        <li>
+          Plasma control
+          <ul>
+            <li>Gas-flow control system.</li>
+            <li>Magnetrons with its targets.</li>
+            <li>Direct-Current (DC) and Radiofrequency (RF) sources.</li>
+            <li>Connection chamber-pumps.</li>
+          </ul>
+        </li>
+        <li>
+          Deposition control
+          <ul>
+            <li>Quartz balance.</li>
+            <li>Substrate holder.</li>
+            <li>Shutters.</li>
+          </ul>
+        </li>
+      </ul>
+      <p class="textformat">
+        The high-vacuum chamber is monitored using a high/low vacuum detector, which provides 
+        real-time pressure readings inside the chamber. Accurate interpretation of these readings 
+        requires reference to standardized pressure scales, as the system operates within both 
+        low- and high-vacuum ranges. Vacuum generation is achieved through the combined use of 
+        a mechanical pump and a turbomolecular pump. The mechanical pump reduces the chamber 
+        pressure to the low-vacuum range, after which the turbomolecular pump further lowers it 
+        to reach high-vacuum conditions. Additionally, the system includes a break-vacuum 
+        mechanism consisting of a nitrogen gas line connected to the main chamber. This allows 
+        the vacuum to be safely broken using nitrogen instead of ambient air, preventing the 
+        introduction of moisture and enabling faster pump-down cycles.
+      </p>
+      <p class="textformat">
+        The equipment is equipped with a gas flow control system that allows the introduction of
+        up to four different gases. At the time of writing these notes, only the argon gas line is
+        operational. These gases are used to generate the plasma required for the sputtering
+        process. The following key components are the magnetrons, where the targets are
+        mounted. Plasma is generated and confined by the magnetic fields produced within the
+        magnetrons. The system is designed to accommodate up to five magnetrons; however,
+        only four are currently in use. The equipment includes both RF and DC power sources,
+        which are responsible for supplying the electrical energy necessary to excite the plasma
+        and accelerate ions toward the target. Since the deposition rate is dependent on chamber
+        pressure, it is desirable to lower the pressure to a level that supports stable plasma
+        formation. This pressure reduction can be achieved either by decreasing the argon flow
+        or by reducing the pumping speed. In the current system configuration, the latter approach
+        is used; argon flow is kept constant while the connection between the chamber and the
+        vacuum pumps is partially closed until the desired pressure is reached.
+      </p>
+      <p class="textformat">
+        In addition, a quartz crystal microbalance is used to calibrate the deposition rate for each
+        material, based on the material’s density and its corresponding Z-factor. The operation of
+        the microbalance relies on the piezoelectric effect: the quartz crystal vibrates at a specific
+        resonance frequency, which decreases proportionally as mass is deposited onto its
+        surface. By measuring changes in frequency, the amount of deposited mass can be
+        determined. Knowing the mass accumulated over a given period allows for the calculation
+        of the deposition rate onto the substrate. The system also includes shutters, which are
+        controlled via the gas-flow control panel. These shutters are actuated by compressed air
+        supplied through the rear of the equipment. Substrates are mounted on a holder that can
+        be rotated at variable speeds, and the distance between the substrate holder and the
+        magnetrons can be adjusted to optimize deposition conditions.
+      </p>
+
+      <h2>Typical procedures to control the equipment</h2>
+
+      <h3>Break the vacuum and open the chamber</h3>
+
+      <p class="textformat">
+        This procedure is intended either for cleaning the interior of the main chamber or for
+        removing a prepared sample. To open the main chamber under high-vacuum conditions,
+        the following steps must be followed. First, it is essential to check the barometer to ensure
+        that the chamber is indeed under high vacuum. Currently, nitrogen is used to break the
+        vacuum; therefore, it is important to verify that the pressure indicated on the nitrogen
+        cylinder manometer is at the correct level (typically around 5 psi).
+      </p>
+      <ol class="textformat">
+        <li>
+          First, the turbomolecular pump is turned off by pressing the lower-right button on
+          the control panel.
+        </li>
+        <li>
+          Immediately after turning off the turbomolecular pump, slightly open the nitrogen
+          stopcock to allow nitrogen to enter and help break the vacuum in the pump. Make 
+          sure the nitrogen gas valve is open.
+        </li>
+        <li>
+          Next, wait until the turbomolecular pump’s frequency reaches low values, typically 
+          around 50 to 100 Hz, before switching off the mechanical pump power supply.
+        </li>
+        <li>
+          The chamber latch must be released to prevent over-pressurization of the chamber.
+        </li>
+        <li>
+          Slowly open the vacuum break valve of the main chamber to allow nitrogen to
+          enter and monitor the pressure until it reaches approximately 754 torr.
+        </li>
+        <li>
+          Once the pressure reaches ambient levels, close the air valve and open the
+          chamber door. Ensure that the nitrogen stopcock is also closed.
+        </li>
+      </ol>
+
+      <h3>Produce a high vacuum in the main chamber</h3>
+
+      <p>
+        To ensure proper thin film deposition, it is necessary to achieve a high vacuum to maintain
+        a clean environment and enable stable plasma generation. The following steps are
+        therefore carried out:
+      </p>
+      <ol class="textformat">
+        <li>
+          It is verified that both the chamber door and the vacuum break valve are fully
+          closed.
+        </li>
+        <li>
+          The mechanical pump power supply is turned on (assuming the vacuum pump is
+          functioning properly). Wait until the pressure in the main chamber reaches
+          approximately \( 10^{-1} \) Torr.
+        </li>
+        <li>
+          Next, the turbomolecular pump is activated by pressing the lower-right button on
+          the control panel. The pump frequency should increase until it reaches
+          approximately 1500 Hz.
+        </li>
+        <li>
+          The goal is to reach the lowest pressure limit achievable by the turbomolecular
+          pump, typically on the order of \( 10^{-8} \) Torr. However, in most cases, the base
+          pressure is considered acceptable when below \( 5 \times 10^{-1} \) Torr.
+        </li>
+      </ol>
+
+    </main>
+
+    <footer>
+      <p>&copy; 2025 Manuel Gustavo Pinedo Cuba. Personal website.</p>
+    </footer>
+
+  </body>
+
+</html>

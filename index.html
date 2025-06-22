@@ -1,23 +1,75 @@
 <!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Blog de Gustavo</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <header>
-    <h1>Blog de Gustavo</h1>
-  </header>
-  <main>
-    <article>
-      <h2>Mi primera entrada</h2>
-      <p>¡Hola mundo! Este es el primer post en mi blog hecho con HTML, CSS y JavaScript.</p>
-    </article>
-  </main>
-  <footer>
-    <p>&copy; 2025 Gustavo</p>
-  </footer>
-</body>
+<html lang="en">
+
+  <head> <!-- This is the header of the page -->
+    <meta charset="UTF-8"> 
+    <!-- This line specify the text codification -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <!-- This line tells to navigator how the page should ajust in each device -->
+    <title>Gustavo's Blog</title>
+    <!-- This line define the title -->
+    <link rel="stylesheet" href="style.css">
+    <!-- This line usess the "style.css" file for format -->
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async
+      src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+    </script>
+    <!-- Soporte para MathJax (fórmulas estilo LaTeX) -->
+  </head>
+
+  <body> <!-- This is the body of the page -->
+    
+    <header>
+      <h1>Homepage</h1>
+      <p>Computational, experimental and theoretical physics</p>
+      <!-- This page is a space for sharing articles written for enjoyment and the 
+        dissemination of knowledge. The content is personal and not subject to 
+        peer review prior to publication. As a result, some articles may contain 
+        interpretative errors, which are part of an ongoing process of reflection, 
+        correction, and improvement over time. -->
+      <nav>
+        <a href="index.html">Home</a>
+        <a href="#">About me</a>
+        <a href="#">Research</a>
+        <a href="notes.html">Notes</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="about">
+        <h2>Welcome to my blog</h2>
+        <p>I'm a student/researcher passionate about physics, programming, 
+          and technology. Here I share my research work, notes, ideas, 
+          and insights on science and technology.</p>
+      </section>
+
+      <!--
+      <section class="posts">
+        <h2>Entradas recientes</h2>
+
+        <article>
+          <h3>📘 Derivadas en física</h3>
+          <p>¿Qué representa realmente \( \frac{dE}{dt} \)? Exploramos su significado físico más allá de la fórmula.</p>
+          <a href="#">Leer más...</a>
+        </article>
+
+        <article>
+          <h3>🧠 Cómo empecé en programación científica</h3>
+          <p>Mi recorrido desde Fortran hasta Python, pasando por simulaciones y visualización de datos.</p>
+          <a href="#">Leer más...</a>
+        </article>
+
+        <article>
+          <h3>📄 PDF: Teoría de campos clásicos</h3>
+          <p>Apuntes resumidos del curso. <a href="pdfs/teoria-campos.pdf" target="_blank">Descargar PDF</a></p>
+        </article>
+      </section>
+      -->
+
+    </main>
+
+    <footer>
+      <p>&copy; 2025 Manuel Gustavo Pinedo Cuba. Personal website.</p>
+    </footer>
+  </body>
 </html>
