@@ -133,22 +133,6 @@ footer {
     margin-top: 60px;
 }
 
-/* Botones (por si agregas uno) */
-button {
-    background-color: var(--color-acento);
-    color: white;
-    padding: 10px 18px;
-    border: none;
-    border-radius: 6px;
-    cursor: pointer;
-    font-size: 1rem;
-    transition: background 0.3s;
-}
-
-button:hover {
-    background-color: #388e3c;
-}
-
 .poster-list {
   counter-reset: poster-counter;
   list-style: none;
@@ -177,4 +161,20 @@ button:hover {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+/* Botones (por si agregas uno) */
+button {
+    background-color: var(--color-acento);
+    color: white;
+    padding: 10px 18px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background 0.3s;
+}
+
+button:hover {
+    background-color: #388e3c;
 }
