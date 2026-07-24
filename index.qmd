@@ -1,0 +1,12 @@
+---
+title: "M. G. Pinedo-Cuba"
+subtitle: "Welcome to my blog"
+toc: false
+---
+
+My current interests include physics, programming, and emerging technologies.
+
+I am a condensed matter physicist working on experimental cryogenic transport
+measurements and thin-film oxide materials. On this site you will find my
+[curriculum vitae](cv.qmd) and a collection of [technical notes](notes.qmd)
+on topics in physics, mathematics, and scientific computing.

@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs          # GitHub Pages will serve from /docs on the main branch
+
+website:
+  title: "M. G. Pinedo-Cuba"
+  description: "Personal website of Manuel Gustavo Pinedo-Cuba"
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: Home
+      - href: cv.qmd
+        text: Curriculum Vitae
+      - href: notes.qmd
+        text: Notes
+    right:
+      - icon: github
+        href: https://github.com/mgpinedocuba
+      - text: "ORCID"
+        href: https://orcid.org/0000-0002-4263-6360
+  page-footer:
+    center: "© 2025 Manuel Gustavo Pinedo Cuba. Personal website."
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss        # our overrides (paleta + círculos numerados)
+    toc: true
+    toc-location: right
+    css: styles.css
+    include-in-header:
+      - text: |
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+# Renderizado de matemáticas (LaTeX) en las notas
+    html-math-method: katex

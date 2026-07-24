@@ -1,0 +1,11 @@
+---
+title: "Notes"
+subtitle: "Technical notes on physics, mathematics, and scientific computing"
+listing:
+  contents: notes          # lista automáticamente todo .qmd dentro de notes/
+  sort: "date desc"
+  type: default
+  categories: true
+  fields: [date, title, description, categories]
+toc: false
+---

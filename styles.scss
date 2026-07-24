@@ -1,0 +1,24 @@
+/*-- scss:defaults --*/
+// Paleta portada de tu style_sc.css original
+$primary:        #1e2141;   // --color-primario
+$secondary:      #3949ab;   // --color-secundario
+$body-bg:        #f5f7fa;   // --color-fondo
+$body-color:     #333;      // --color-texto
+$link-color:     #3949ab;
+
+// Tipografía Inter, como en tu web original
+$font-family-sans-serif: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
+
+/*-- scss:rules --*/
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+
+// La navbar de Quarto sustituye a tu header.html + main.js.
+// Aquí le damos el aspecto de tu cabecera azul oscuro original.
+.navbar {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.navbar-brand {
+  font-size: 1.6rem;
+  font-weight: 600;
+}

@@ -1,0 +1,54 @@
+---
+title: "The Fourier transform as a change of basis in $L^2$"
+description: "A short note on viewing the Fourier transform not as a formula, but as a rotation between orthonormal bases of a function space."
+date: 2025-07-24
+categories: [mathematics, functional-analysis]
+---
+
+## Motivation
+
+We usually meet the Fourier transform as a formula,
+
+$$
+\hat{f}(\xi) = \int_{-\infty}^{\infty} f(x)\, e^{-2\pi i x \xi}\, \mathrm{d}x ,
+$$
+
+but this hides the structural idea. The transform is better understood as a
+**change of orthonormal basis** in the Hilbert space $L^2(\mathbb{R})$.
+
+## Vectors and functions
+
+In $\mathbb{R}^n$ a vector $\mathbf{v}$ is expanded in an orthonormal basis
+$\{\mathbf{e}_k\}$ as
+
+$$
+\mathbf{v} = \sum_k \langle \mathbf{e}_k, \mathbf{v}\rangle\, \mathbf{e}_k .
+$$
+
+A function $f \in L^2$ behaves the same way, with the inner product
+
+$$
+\langle g, f\rangle = \int_{-\infty}^{\infty} \overline{g(x)}\, f(x)\, \mathrm{d}x .
+$$
+
+The complex exponentials $e_\xi(x) = e^{2\pi i x \xi}$ play the role of the
+basis vectors $\mathbf{e}_k$. The Fourier coefficient $\hat{f}(\xi)$ is nothing
+but the projection $\langle e_\xi, f\rangle$.
+
+## Why this matters
+
+Because the transform is a **unitary** map, it preserves inner products —
+this is Parseval's theorem,
+
+$$
+\int |f(x)|^2\, \mathrm{d}x = \int |\hat{f}(\xi)|^2\, \mathrm{d}\xi ,
+$$
+
+which is simply the statement that a rotation of the basis does not change
+the length of a vector.
+
+::: {.callout-note}
+This is a placeholder note showing how LaTeX renders on the site. Delete it
+and add your own `.qmd` files in the `notes/` folder — they appear on the
+[Notes](../notes.qmd) page automatically.
+:::
