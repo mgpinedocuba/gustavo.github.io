@@ -1,12 +1,46 @@
 ---
-title: "M. G. Pinedo-Cuba"
-subtitle: "Welcome to my blog"
+title: "Manuel Gustavo Pinedo-Cuba"
+subtitle: "Condensed matter physicist · Oxide Nanophysics, ICN2"
 toc: false
 ---
 
-My current interests include physics, programming, and emerging technologies.
+I am a physicist working on the experimental study of transition-metal oxides,
+currently based in the [Oxide Nanophysics group](https://icn2.cat/en/oxide-nanophysics-group)
+at the Catalan Institute of Nanoscience and Nanotechnology (ICN2) in Barcelona.
+My work sits at the interface between materials growth, low-temperature electrical
+transport, and the instrumentation that makes those measurements possible.
 
-I am a condensed matter physicist working on experimental cryogenic transport
-measurements and thin-film oxide materials. On this site you will find my
-[curriculum vitae](cv.qmd) and a collection of [technical notes](notes.qmd)
-on topics in physics, mathematics, and scientific computing.
+## What I work on
+
+Much of my day-to-day revolves around **cryogenic transport measurements** of
+oxide thin films and heterostructures — resistance-versus-temperature curves,
+Hall effect, and field-dependent transport down to low temperatures and under
+applied magnetic field. I am particularly interested in **metal–insulator
+transitions** and how they are shaped by strain, dimensionality, and interface
+effects in systems such as nickelates and doped titanates.
+
+Alongside the physics, I build a good deal of the **measurement infrastructure**
+I rely on: instrument drivers for lock-in amplifiers, temperature controllers
+and magnet power supplies, a multi-threaded control application for coordinating
+an experiment end to end, and Python tooling for extracting physical quantities
+from the raw data. I find that caring about the measurement chain — not just the
+final plot — tends to pay off in the quality of the science.
+
+## Background
+
+I completed my undergraduate and master's studies in physics at the Universidad
+Nacional Mayor de San Marcos in Lima, with a focus on condensed matter and
+materials science, working on thin-film growth by sputtering and pulsed laser
+deposition. That experimental grounding — sample preparation, X-ray diffraction,
+magnetometry — is what I now bring to the study of oxide nanostructures.
+
+## Get in touch
+
+I am always glad to talk with people working on oxide electronics, metal–insulator
+transitions, cryogenic instrumentation, or the messy-but-rewarding business of
+making reliable transport measurements. You will find my publications and full
+background on the [CV page](cv.qmd), and shorter technical write-ups in
+[Notes](notes.qmd).
+
+- **ORCID:** [0000-0002-4263-6360](https://orcid.org/0000-0002-4263-6360)
+- **GitHub:** [mgpinedocuba](https://github.com/mgpinedocuba)

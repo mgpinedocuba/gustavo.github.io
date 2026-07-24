@@ -8,8 +8,6 @@ website:
   navbar:
     background: primary
     left:
-      - href: index.qmd
-        text: Home
       - href: cv.qmd
         text: Curriculum Vitae
       - href: notes.qmd
