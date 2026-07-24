@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Notes",
+    "section": "",
+    "text": "The Fourier transform as a change of basis in L^2\n\n\n\nmathematics\n\nfunctional-analysis\n\n\n\nA short note on viewing the Fourier transform not as a formula, but as a rotation between orthonormal bases of a function space.\n\n\n\n\n\nJul 24, 2025\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "M. G. Pinedo-Cuba",
+    "section": "",
+    "text": "My current interests include physics, programming, and emerging technologies.\nI am a condensed matter physicist working on experimental cryogenic transport measurements and thin-film oxide materials. On this site you will find my curriculum vitae and a collection of technical notes on topics in physics, mathematics, and scientific computing."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "mgpinedocuba@outlook.com\n +51 971735570\n https://orcid.org/0000-0002-4263-6360\n mgpinedocuba"
+  },
+  {
+    "objectID": "cv.html#work-experience",
+    "href": "cv.html#work-experience",
+    "title": "Curriculum Vitae",
+    "section": "Work experience",
+    "text": "Work experience\n\n\n2022 – 2025\n\n\n Laboratory technician at the Centro de Investigaciones Tecnológicas, Biomédicas y Medioambientales (CITBM), Lima, Peru.\n\n\n\n\n2020 – 2021\n\n\n Practical instructor at the Universidad Nacional Mayor de San Marcos of the Electromagnetism I course."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\n\n\n2021 – 2023\n\n\n Master in Physics with a mention in condensed matter physics. Facultad de Ciencias Físicas, Universidad Nacional Mayor de San Marcos.\n\n\n\n\n2015 – 2019\n\n\n Degree in Physics with a mention in material science. Facultad de Ciencias Físicas, Universidad Nacional Mayor de San Marcos."
+  },
+  {
+    "objectID": "cv.html#scientific-production",
+    "href": "cv.html#scientific-production",
+    "title": "Curriculum Vitae",
+    "section": "Scientific production",
+    "text": "Scientific production\n\nScientific articles\n\n\nManuel G. Pinedo-Cuba, José M. Caicedo-Roque, Jessica Padilla-Pantoja, Justiniano Quispe-Marcatoma, Carlos V. Landauro, Víctor A. Peña-Rodríguez and José Santiso, Epitaxial Growth of Ni-Mn-Ga on Al2O3(11-20) Single-Crystal Substrates by Pulsed Laser Deposition. Surfaces 2025, 8(2), 35.\n\nDOI: https://doi.org/10.3390/surfaces8020035\n\n\n\nManuel Torres, Manuel Pinedo, Justiniano Quispe, and Carlos Landauro, Implementación de un sistema de pulverización catódica con magnetrones de caras opuestas para el crecimiento de películas delgadas de hidroxiapatita. Revista de Investigación de Física, 27(1).\n\nDOI: https://doi.org/10.15381/rif.v27i1.25685\n\n\n\n\n\nPoster and oral presentations\n\n\nM. G. Pinedo-Cuba, H. Tarazona, C. V. Landauro, and J. Quispe-Marcatoma, Implementación del método de muestreo adaptativo para el estudio de propiedades magnéticas de nanopartículas de Fe y Co. Poster presented in the IEEE NanoPerú 2023: Trends in Nanoscience and Nanotechnology, Lima, Perú, 2023.\n\n\nJ. Agüero, M. G. Pinedo-Cuba, M. Yactayo, J. Quispe-Marcatoma, and C. V. Landauro, Implementación de un sistema de medida de resistividad en películas delgadas nanoestructuradas con interfase labview utilizando el método van der pauw. Poster presented in the IEEE NanoPerú 2022, Lima, Perú.\n\n\nM. Yactayo, M. G. Pinedo-Cuba, J. C. Rojas-Sanchez, J. Quispe-Marcatoma, and C. V. Landauro, Thickness optimization for effective spin hall angle in W/Fe bilayers. Poster presented in the International Workshop on Spintronics 2022, Bariloche, Argentina."
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "Curriculum Vitae",
+    "section": "Skills",
+    "text": "Skills\n\n\nLanguages\n\n\nSpanish, Portuguese, and English\n\n\n\n\nProgramming\n\n\nFortran 90, Python, Julia, Bash, ANSI-C, and LaTeX\n\n\n\n\nSoftwares\n\n\nQuantum Espresso, Vampire, and Lammps.\n\n\n\n\nLaboratory equipment\n\n\nSample preparation: Magnetron sputtering, Pulsed Laser Deposition. Characterization: x-ray diffractometer (Bruker), scanning electron microscope (Thermo Fisher), Atomic force microscopy (Nanosurf), vibrating sample magnetometer (Quantum Design), and Physical properties measurement system (Quantum Design)."
+  },
+  {
+    "objectID": "cv.html#research-projects",
+    "href": "cv.html#research-projects",
+    "title": "Curriculum Vitae",
+    "section": "Research projects",
+    "text": "Research projects\n\n\n2024\n\n\n Synthesis of Ni2MnGa thin films grown by pulsed laser deposition. NFFA-Europe, proposal ID530.\n\n\n\n\n2022\n\n\n Study of the effect of dimensionality on martensitic phase transitions and magnetic properties of Heusler Ni2MnGa alloys prepared by mechano-synthesis and sputtering. Code PE501079047-2022.\n\n\n\n\n2021\n\n\n Study of superconductivity in two-dimensional Fibonacci-type networks and its relationship with electronic and optical properties. PIB-UNMSM 2021 Project. Code B21130591 (05753-R-21).\n\n\n\n\n2020\n\n\n Synthesis, theoretical modeling and structural and magnetic characterization of graphene composites with cobalt nanoparticles. PIB-UNMSM 2020 Project. Code B20131521 (R.R. 01686-R-20)."
+  },
+  {
+    "objectID": "notes/fourier-change-of-basis.html",
+    "href": "notes/fourier-change-of-basis.html",
+    "title": "The Fourier transform as a change of basis in L^2",
+    "section": "",
+    "text": "We usually meet the Fourier transform as a formula,\n\n\\hat{f}(\\xi) = \\int_{-\\infty}^{\\infty} f(x)\\, e^{-2\\pi i x \\xi}\\, \\mathrm{d}x ,\n\nbut this hides the structural idea. The transform is better understood as a change of orthonormal basis in the Hilbert space L^2(\\mathbb{R})."
+  },
+  {
+    "objectID": "notes/fourier-change-of-basis.html#motivation",
+    "href": "notes/fourier-change-of-basis.html#motivation",
+    "title": "The Fourier transform as a change of basis in L^2",
+    "section": "",
+    "text": "We usually meet the Fourier transform as a formula,\n\n\\hat{f}(\\xi) = \\int_{-\\infty}^{\\infty} f(x)\\, e^{-2\\pi i x \\xi}\\, \\mathrm{d}x ,\n\nbut this hides the structural idea. The transform is better understood as a change of orthonormal basis in the Hilbert space L^2(\\mathbb{R})."
+  },
+  {
+    "objectID": "notes/fourier-change-of-basis.html#vectors-and-functions",
+    "href": "notes/fourier-change-of-basis.html#vectors-and-functions",
+    "title": "The Fourier transform as a change of basis in L^2",
+    "section": "Vectors and functions",
+    "text": "Vectors and functions\nIn \\mathbb{R}^n a vector \\mathbf{v} is expanded in an orthonormal basis \\{\\mathbf{e}_k\\} as\n\n\\mathbf{v} = \\sum_k \\langle \\mathbf{e}_k, \\mathbf{v}\\rangle\\, \\mathbf{e}_k .\n\nA function f \\in L^2 behaves the same way, with the inner product\n\n\\langle g, f\\rangle = \\int_{-\\infty}^{\\infty} \\overline{g(x)}\\, f(x)\\, \\mathrm{d}x .\n\nThe complex exponentials e_\\xi(x) = e^{2\\pi i x \\xi} play the role of the basis vectors \\mathbf{e}_k. The Fourier coefficient \\hat{f}(\\xi) is nothing but the projection \\langle e_\\xi, f\\rangle."
+  },
+  {
+    "objectID": "notes/fourier-change-of-basis.html#why-this-matters",
+    "href": "notes/fourier-change-of-basis.html#why-this-matters",
+    "title": "The Fourier transform as a change of basis in L^2",
+    "section": "Why this matters",
+    "text": "Why this matters\nBecause the transform is a unitary map, it preserves inner products — this is Parseval’s theorem,\n\n\\int |f(x)|^2\\, \\mathrm{d}x = \\int |\\hat{f}(\\xi)|^2\\, \\mathrm{d}\\xi ,\n\nwhich is simply the statement that a rotation of the basis does not change the length of a vector.\n\n\n\n\n\n\nNote\n\n\n\nThis is a placeholder note showing how LaTeX renders on the site. Delete it and add your own .qmd files in the notes/ folder — they appear on the Notes page automatically."
+  }
+]
