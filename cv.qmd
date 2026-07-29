@@ -25,6 +25,15 @@ toc-location: right
 
 ::: {.job}
 ::: {.date}
+2025 – act.
+:::
+::: {.desc}
+<i class="fas fa-bookmark"></i> Research assistant at the **Catalan Institute of Nanoscience and Nanotechnology** (ICN2), Barcelona, Spain.
+:::
+:::
+
+::: {.job}
+::: {.date}
 2022 – 2025
 :::
 ::: {.desc}
@@ -67,6 +76,10 @@ toc-location: right
 
 <ol class="poster-list">
 <li>
+<strong>Manuel G. Pinedo-Cuba</strong>, Renzo Rueda-Vellasmín, Justiniano Quispe-Marcatoma, Carlos V. Landauro, Valberto P. Nascimento, Noemi R. Checca-Huamán, Víctor A. Peña-Rodríguez and Edson C. Passamani, <em>Influence of growth temperature on interface diffusion and magnetic properties of Ni-Mn-Sn-Pd thin films</em>. Thin Solid Films 2026, 833, 140843.
+<p>DOI: <a href="https://doi.org/10.1016/j.tsf.2025.140843" target="_blank">https://doi.org/10.1016/j.tsf.2025.140843</a></p>
+</li>
+<li>
 <strong>Manuel G. Pinedo-Cuba</strong>, José M. Caicedo-Roque, Jessica Padilla-Pantoja, Justiniano Quispe-Marcatoma, Carlos V. Landauro, Víctor A. Peña-Rodríguez and José Santiso, <em>Epitaxial Growth of Ni-Mn-Ga on Al2O3(11-20) Single-Crystal Substrates by Pulsed Laser Deposition</em>. Surfaces 2025, 8(2), 35.
 <p>DOI: <a href="https://doi.org/10.3390/surfaces8020035" target="_blank">https://doi.org/10.3390/surfaces8020035</a></p>
 </li>
@@ -80,7 +93,14 @@ Manuel Torres, <strong>Manuel Pinedo</strong>, Justiniano Quispe, and Carlos Lan
 
 <ol class="poster-list">
 <li>
-<strong>M. G. Pinedo-Cuba</strong>, H. Tarazona, C. V. Landauro, and J. Quispe-Marcatoma, <em>Implementación del método de muestreo adaptativo para el estudio de propiedades magnéticas de nanopartículas de Fe y Co</em>. Poster presented in the IEEE NanoPerú 2023: Trends in Nanoscience and Nanotechnology, Lima, Perú, 2023.
+<strong>Manuel G. Pinedo-Cuba</strong>, José M. Caicedo-Roque, Jessica Padilla-Pantoja, Justiniano Quispe-Marcatoma, Carlos V. Landauro, Víctor A. Peña-Rodríguez and José Santiso, <em>Grown of Ni-Mn-Ga thin films by pulsed laser deposition</em>. Poster presented in the IEEE NanoPerú 2024, Lima, Perú, 2024.
+</li>
+<li>
+<strong>Manuel G. Pinedo-Cuba</strong>, Manuel G. Pinedo-Cuba</strong>, Renzo Rueda-Vellasmín,  Carlos V. Landauro, Justiniano Quispe-Marcatoma, Víctor A. Peña-Rodríguez, Anderson Pashoa, Valberto P. Nascimento, Noemi R. Checca-Huamán and Edson C. Passamani, <em>Structural effects of Palladium incorporation in thin
+films of Ni50Mn36Sn14 by co-deposition</em>. Poster presented in the International School on Fundamental Crystallography: Seventh MaThCryst school in Latin America, Lima, Perú, 2024.
+</li>
+<li>
+<strong>Manuel G. Pinedo-Cuba</strong>, H. Tarazona, C. V. Landauro, and J. Quispe-Marcatoma, <em>Implementación del método de muestreo adaptativo para el estudio de propiedades magnéticas de nanopartículas de Fe y Co</em>. Poster presented in the IEEE NanoPerú 2023: Trends in Nanoscience and Nanotechnology, Lima, Perú, 2023.
 </li>
 <li>
 J. Agüero, <strong>M. G. Pinedo-Cuba</strong>, M. Yactayo, J. Quispe-Marcatoma, and C. V. Landauro, <em>Implementación de un sistema de medida de resistividad en películas delgadas nanoestructuradas con interfase labview utilizando el método van der pauw</em>. Poster presented in the IEEE NanoPerú 2022, Lima, Perú.
